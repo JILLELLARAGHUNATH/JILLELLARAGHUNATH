@@ -11,9 +11,9 @@ I am an aspiring software developer with a strong foundation in **Python, MATLAB
 ---
 
 ## 🎓 Education  
-- **B.Tech** – Electronics & Communication Engineering, KARE (CGPA: 7.87)  
-- **12th** – Deepthi Junior College, Proddatur (73%)  
-- **10th** – Sarada High School, Proddatur (CGPA: 10.0)  
+- **B.Tech** – Electronics & Communication Engineering, KARE  
+- **12th** – Deepthi Junior College, Proddatur 
+- **10th** – Sarada High School, Proddatur  
 
 ---
 
@@ -42,8 +42,7 @@ I am an aspiring software developer with a strong foundation in **Python, MATLAB
 
 ## 🚀 Projects  
 - **Student Management System** – Python, Tkinter, SQL  
-- **Voice-Controlled Autonomous Car** – IoT, Arduino, Speech Recognition  
-- **Eye Blink Morse Code Translator** – Deep Learning (CNN)  
+- **Voice-Controlled Autonomous Car** – IoT, Arduino, Speech Recognition    
 - **Weed Detection System** – MATLAB Image Processing  
 - **Portfolio Website** – TypeScript, Render  
 
