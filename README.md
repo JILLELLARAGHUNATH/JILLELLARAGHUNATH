@@ -29,8 +29,6 @@ With a strong foundation in **Python, MATLAB, and IoT systems**, I focus on deve
 
 ## 🛠️ Tech Stack  
 
-### 💻 Programming & Tools  
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -100,8 +98,8 @@ With a strong foundation in **Python, MATLAB, and IoT systems**, I focus on deve
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
@@ -109,7 +107,7 @@ With a strong foundation in **Python, MATLAB, and IoT systems**, I focus on deve
 ## 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JILLELLARAGHUNATH&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=JILLELLARAGHUNATH&theme=radical" height="165"/>
 </p>
 
 ---
