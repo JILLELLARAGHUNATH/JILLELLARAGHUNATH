@@ -1,6 +1,18 @@
 <h1 align="center">👋 Hi, I'm Raghunath Jillella</h1>
 <h3 align="center">Aspiring Software Developer | Python • AI/ML • IoT • MATLAB</h3>
 
+<p align="center">
+  <a href="mailto:jillellaraghunath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jillella-raghunath-ece-a69555268">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JILLELLARAGHUNATH">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me  
@@ -9,7 +21,7 @@ I am passionate about building impactful software solutions that solve real-worl
 With a strong foundation in **Python, MATLAB, and IoT systems**, I focus on developing intelligent systems that integrate software, data, and hardware.
 
 - 🎓 B.Tech in Electronics & Communication Engineering  
-- 💻 Skilled in Python, MySQL, MATLAB, Arduino, and Power BI  
+- 💻 Skilled in Python, C (Basics), MySQL, MATLAB, Arduino, Power BI  
 - 🌱 Currently exploring Artificial Intelligence & Machine Learning  
 - 🎯 Strong believer in continuous learning and innovation  
 
@@ -41,16 +53,17 @@ With a strong foundation in **Python, MATLAB, and IoT systems**, I focus on deve
 - Developed a desktop-based student record management system  
 - Implemented full CRUD operations  
 - Integrated structured database handling  
-- Designed an intuitive GUI  
+- Designed an intuitive graphical user interface  
 
 ---
 
 ### 🔹 Voice-Controlled Autonomous Car  
 **Tech:** Arduino + IoT Sensors  
 
-- Built a voice-command-based robotic vehicle  
-- Integrated obstacle detection using sensors  
-- Implemented real-time path correction  
+- Built a voice-command robotic vehicle  
+- Integrated obstacle detection sensors  
+- Implemented real-time path correction logic  
+- Demonstrated practical IoT automation  
 
 ---
 
@@ -58,7 +71,7 @@ With a strong foundation in **Python, MATLAB, and IoT systems**, I focus on deve
 **Tech:** MATLAB | Image Processing  
 
 - Developed an algorithm to detect weeds in crop fields  
-- Applied image processing techniques for precision agriculture  
+- Applied computer vision techniques for precision agriculture  
 - Improved targeted weed management efficiency  
 
 ---
@@ -69,15 +82,15 @@ With a strong foundation in **Python, MATLAB, and IoT systems**, I focus on deve
 **Youngminds Technology Solutions Pvt Ltd**  
 📅 May 2024 – July 2024  
 
-- Applied image processing techniques in real-world applications  
+- Applied image processing techniques to real-world datasets  
 - Worked on problem analysis, coding, testing, and deployment  
-- Strengthened debugging and optimization skills  
+- Strengthened debugging, optimization, and documentation skills  
 
 ---
 
 ## 🎓 Certifications  
 
-- ✅ Python  
+- ✅ Python Programming  
 - ✅ MATLAB  
 - ✅ SQL  
 - ✅ Power BI  
@@ -93,18 +106,10 @@ With a strong foundation in **Python, MATLAB, and IoT systems**, I focus on deve
 
 ---
 
-## 🌐 Connect with Me  
+## 🔥 GitHub Streak  
 
 <p align="center">
-  <a href="mailto:jillellaraghunath@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jillella-raghunath-ece-a69555268">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/JILLELLARAGHUNATH">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=JILLELLARAGHUNATH&theme=radical" height="160"/>
 </p>
 
 ---
