@@ -19,3 +19,7 @@
 ## Portfolio link
 
 The new live portfolio URL is https://raghunath-jillella.vercel.app/ and appears in the hero, portfolio spotlight, featured project card and footer. The portfolio spotlight is original SVG artwork, not a screenshot of the live site.
+
+
+### GitHub Activity image fix (v4)
+The two unreliable external stats cards were replaced by `assets/github-activity.svg`, a local illustrated card that always renders when assets are uploaded. The live streak is optional, with corrected bright number colours. Upload the **entire** `assets` folder with `README.md`.

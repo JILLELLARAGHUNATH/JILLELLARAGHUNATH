@@ -132,13 +132,18 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 ## ✦ GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=A371F7" alt="GitHub statistics" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Most used languages across public GitHub repositories" height="170" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=JILLELLARAGHUNATH&hide_border=true&background=0D1117&ring=00D9FF&fire=A371F7&currStreakLabel=58A6FF&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
+
+<a href="https://github.com/JILLELLARAGHUNATH?tab=repositories"><img src="assets/github-activity.svg" alt="Explore Raghunath's public repositories, full stack development, computer vision and IoT projects" width="100%" /></a>
+
+[![Explore My Repositories](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/JILLELLARAGHUNATH?tab=repositories)
+[![GitHub Profile](https://img.shields.io/badge/GITHUB_PROFILE-A371F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JILLELLARAGHUNATH)
+
+<!-- Optional live streak: remove this image if the external service is unavailable. -->
+<img src="https://streak-stats.demolab.com?user=JILLELLARAGHUNATH&amp;hide_border=true&amp;background=0D1117&amp;ring=00D9FF&amp;fire=A371F7&amp;currStreakLabel=58A6FF&amp;sideLabels=E6EDF3&amp;dates=8B949E&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;stroke=30363D" alt="Live GitHub contribution streak" width="490" />
+
 </div>
 
-<sub>Third-party statistics may occasionally be unavailable. Repository language percentages do not measure programming expertise.</sub>
+<sub>The overview card is stored in this repository and always displays. The optional live streak is provided by a third-party service and may occasionally be unavailable.</sub>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
