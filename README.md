@@ -1,134 +1,163 @@
 <div align="center">
-  <img src="assets/developer-hero.svg" alt="Original illustration of a developer coding at a workstation" width="760" />
 
-# Hi, I'm Raghunath Jillella
+<img src="assets/hero-banner.png" alt="Illustrated developer working at a laptop, with neon blue and purple technology-themed artwork" width="100%" />
+
+# Hi, I'm Raghunath Jillella 👋
+
 ### Full Stack Developer @ Persevex LLP · Bengaluru, India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1300&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+Developer;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Solutions)](https://git.io/typing-svg)
 
-**Building practical applications, intelligent systems and meaningful digital experiences.**
+**Building practical software, intelligent systems and meaningful digital experiences.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/jillella-raghunath-ece-a69555268)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:jillellaraghunath@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/JILLELLARAGHUNATH)
-<!-- Portfolio URL pending verification: https://raghunathjillella.onrender.com/ -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jillella-raghunath-ece-a69555268)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JILLELLARAGHUNATH)
+[![Email](https://img.shields.io/badge/Email-A371F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillellaraghunath@gmail.com)
+[![Live Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://raghunath-jillella.vercel.app/)
+[![Portfolio Source](https://img.shields.io/badge/Portfolio_Source-A371F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JILLELLARAGHUNATH/Portfolio)
+
 </div>
 
-## About me
+<img src="assets/divider.svg" alt="" width="100%" />
 
-I'm a **Full Stack Developer at Persevex LLP**, with a B.Tech in **Electronics and Communication Engineering** from **Kalasalingam Academy of Research and Education (2026)**. My background connects electronics, embedded systems and MATLAB image processing with web development, databases and automation. I enjoy building useful software and exploring AI, computer vision and IoT.
+## ✦ At a Glance
 
-| Currently | Details |
-|:--|:--|
-| **Role** | Full Stack Developer · Persevex LLP |
-| **Location** | Bengaluru, Karnataka, India |
-| **Interests** | Full Stack · Python · AI/ML · Computer Vision · IoT |
+| 💼 Current role | 📍 Location | 🎓 Education | ⚡ Interests |
+|:---|:---|:---|:---|
+| Full Stack Developer · Persevex LLP | Bengaluru, India | B.Tech ECE · KARE · 2026 | Full Stack · AI/ML · IoT · Automation |
 
-<img src="assets/dividers/glow.svg" alt="" width="100%" />
-
-## Professional experience
-
-### Full Stack Developer — Persevex LLP
-*Bengaluru, India · Joining date: awaiting confirmation*
-
-Developing web application interfaces and backend workflows, integrating data and maintaining application functionality. My public **[Persevex WorkSync repository](https://github.com/JILLELLARAGHUNATH/Persevex-Worksync)** contains a Next.js / React / TypeScript application with Prisma, Supabase and Tailwind CSS dependencies. WorkSync is a workforce and attendance management project; the precise completed features and my individual contributions are pending confirmation.
-
-> Company-specific details and internal screenshots will only be added with permission.
-
-### MATLAB Image Processing Intern — Youngminds Technology Solutions Pvt. Ltd.
-*May 2024 – July 2024*
-
-Worked on agricultural weed detection with MATLAB image processing, including image preprocessing, segmentation, morphological operations and region visualization. [Explore the public project](https://github.com/JILLELLARAGHUNATH/weed-detection).
-
-## Technical toolkit
-
-**Programming & web**
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,react,vite,nextjs,flask,tailwind" alt="Python, JavaScript, HTML, CSS, C, React, Vite, Next.js, Flask and Tailwind CSS" />
-
-**Databases & tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" alt="MySQL, SQLite, Git, GitHub and VS Code" />
-
-**Engineering & computer vision**
-
-<img src="https://skillicons.dev/icons?i=opencv,matlab,arduino" alt="OpenCV, MATLAB and Arduino" />
-
-**Also using or exploring:** SQL · Power BI · YOLO · IoT sensors · AI/ML. Experience varies across professional work, projects and ongoing learning.
-
-<img src="assets/dividers/glow.svg" alt="" width="100%" />
-
-## Selected projects
-
-### 01 · Persevex WorkSync
-**Workforce management and attendance-oriented application**
-
-A Next.js application with React, TypeScript, Prisma, Supabase and Tailwind CSS. The public repository documents its technical stack; company-approved descriptions of production features and individual contributions are pending.
-
-[![WorkSync repository](https://img.shields.io/badge/Repository-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/JILLELLARAGHUNATH/Persevex-Worksync)
-
-### 02 · Hospital Appointment Scheduler
-**Scheduling interface for a frontend developer challenge**
-
-Next.js 14 · TypeScript · Tailwind CSS · React Hooks · date-fns. Includes doctor filtering, day and week calendar views, and appointment-type categorization.
-
-[![Hospital Scheduler repository](https://img.shields.io/badge/Repository-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/JILLELLARAGHUNATH/Hospital-Scheduler)
-
-### 03 · Student Management System
-**Student record management and CRUD**
-
-Python · SQLite · HTML · CSS. A lightweight web application to add, view, update and delete student records. This is the **web version** in the linked repository; my earlier Tkinter version is a separate project.
-
-[![Student Management repository](https://img.shields.io/badge/Repository-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/JILLELLARAGHUNATH/Student-Management-System-)
-
-### 04 · Weed Detection
-**MATLAB computer vision for precision agriculture**
-
-Image preprocessing, RGB channel analysis, denoising, threshold segmentation, morphological processing and bounding-box visualization. The repository also documents sensitivity, specificity and predictive-value evaluation.
-
-[![Weed Detection repository](https://img.shields.io/badge/Repository-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/JILLELLARAGHUNATH/weed-detection)
-
-### 05 · Personal Developer Portfolio
-**React and Vite portfolio**
-
-React · Vite · JavaScript · Framer Motion. Public source code is available; the latest live deployment URL is pending verification.
-
-[![Portfolio repository](https://img.shields.io/badge/Repository-A371F7?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/JILLELLARAGHUNATH/Portfolio)
-
-### More work
-
-- **[Calculator using Tkinter](https://github.com/JILLELLARAGHUNATH/Calculator-using-Tkinter)** — Python desktop GUI for arithmetic operations.
-- **Voice-Controlled Autonomous Car** — Arduino, voice commands and IoT sensors; public repository link pending.
-- **Automated Malpractice Detection System** — computer vision project; public repository and completed feature list pending. Model flags are indicators for review, not proof of misconduct.
-- **Automated Offer Letter Generator** — Flask and PDF automation; public-showcase permission and current deployment pending.
-
-## Education & community
-
-**B.Tech, Electronics and Communication Engineering** · Kalasalingam Academy of Research and Education · **2026**
-
-IEEE and IETE student involvement. Specific positions, award titles and certifications will be added after verification.
-
-## GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=A371F7" alt="GitHub statistics" height="170" />
-  <img src="https://streak-stats.demolab.com?user=JILLELLARAGHUNATH&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak" height="170" />
-</div>
-
-> Statistics are supplied by third parties and may be temporarily unavailable. Repository language proportions do not measure proficiency.
-
-## Current focus
-
-**Building:** Full stack applications · **Strengthening:** backend systems and databases · **Exploring:** AI/ML, computer vision and automation.
-
-<img src="assets/dividers/glow.svg" alt="" width="100%" />
+## ✦ Portfolio Spotlight
 
 <div align="center">
 
-### Let's build something useful.
+<a href="https://raghunath-jillella.vercel.app/">
+  <img src="assets/portfolio-spotlight.svg" alt="Illustrated preview of Raghunath Jillella’s personal developer portfolio with a neon browser interface" width="100%" />
+</a>
 
-[Email](mailto:jillellaraghunath@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jillella-raghunath-ece-a69555268) · [GitHub](https://github.com/JILLELLARAGHUNATH)
+**My work, experience and engineering journey — in one place.**  
+A React + Vite portfolio showcasing my development projects and technical background.
 
-<img src="https://komarev.com/ghpvc/?username=JILLELLARAGHUNATH&style=flat-square&color=58A6FF" alt="Profile view counter" />
+[![Visit Live Portfolio](https://img.shields.io/badge/↗_VISIT_LIVE_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://raghunath-jillella.vercel.app/)
+[![Explore Source Code](https://img.shields.io/badge/VIEW_SOURCE-A371F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JILLELLARAGHUNATH/Portfolio)
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## ✦ About Me
+
+I'm a **Full Stack Developer** with an Electronics and Communication Engineering background. I enjoy building practical applications at the intersection of **software engineering, Python, automation and intelligent systems**. My experience spans web development, databases, MATLAB image processing and IoT projects.
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## ✦ Professional Experience
+
+### 💼 Full Stack Developer · Persevex LLP
+**Bengaluru, India**
+
+Working on web application development, frontend interfaces, backend functionality, database integration and maintenance. My public [WorkSync repository](https://github.com/JILLELLARAGHUNATH/Persevex-Worksync) uses **Next.js, React, TypeScript, Prisma, Supabase and Tailwind CSS**. Specific responsibilities, launch status and internal features should be published only after company approval.
+
+### 🔬 MATLAB Image Processing Intern · Youngminds Technology Solutions Pvt. Ltd.
+**May 2024 – July 2024**
+
+Worked on MATLAB-based agricultural weed detection using image preprocessing, segmentation, morphological operations and region visualization. [Explore the public project](https://github.com/JILLELLARAGHUNATH/weed-detection).
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## ✦ Tech Stack
+
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C, HTML and CSS" /></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite and Tailwind CSS" /></td></tr>
+<tr><td><b>Backend & Data</b></td><td><img src="https://skillicons.dev/icons?i=flask,mysql,sqlite&theme=dark" alt="Flask, MySQL and SQLite" /></td></tr>
+<tr><td><b>Computer Vision & IoT</b></td><td><img src="https://skillicons.dev/icons?i=opencv,matlab,arduino&theme=dark" alt="OpenCV, MATLAB and Arduino" /></td></tr>
+<tr><td><b>Developer Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" /></td></tr>
+</table>
+
+**Also working with / exploring:** SQL · Power BI · YOLO · AI/ML · automation. Technologies above reflect a mix of professional use, projects and learning—not equal proficiency in every tool.
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## ✦ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>⚡ Persevex WorkSync</h3>
+<p>Workforce and attendance-oriented web application. Public codebase built with Next.js, React, TypeScript and Prisma.</p>
+<p><img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></p>
+<a href="https://github.com/JILLELLARAGHUNATH/Persevex-Worksync">↗ View public repository</a>
+</td>
+<td width="50%" valign="top">
+<h3>🏥 Hospital Scheduler</h3>
+<p>Frontend scheduling challenge with doctor filters, day/week calendar views and appointment categories.</p>
+<p><img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></p>
+<a href="https://github.com/JILLELLARAGHUNATH/Hospital-Scheduler">↗ View repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 Student Management System</h3>
+<p>Python and SQLite web application with student record CRUD operations and a simple browser interface.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/></p>
+<a href="https://github.com/JILLELLARAGHUNATH/Student-Management-System-">↗ View repository</a>
+</td>
+<td width="50%" valign="top">
+<h3>🌿 Weed Detection</h3>
+<p>MATLAB computer vision workflow using segmentation, denoising, morphology and bounding-box visualization.</p>
+<p><img src="https://img.shields.io/badge/MATLAB-A371F7?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/> <img src="https://img.shields.io/badge/Image_Processing-00A6C8?style=flat-square" alt="Image processing"/></p>
+<a href="https://github.com/JILLELLARAGHUNATH/weed-detection">↗ View repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌐 Developer Portfolio</h3>
+<p>Personal developer portfolio built with React, Vite and Framer Motion.</p>
+<p><img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/></p>
+<a href="https://raghunath-jillella.vercel.app/">↗ Live portfolio</a> · <a href="https://github.com/JILLELLARAGHUNATH/Portfolio">Source code</a>
+</td>
+<td width="50%" valign="top">
+<h3>🧮 Tkinter Calculator</h3>
+<p>Desktop calculator with a Python Tkinter interface and arithmetic operations.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Tkinter-A371F7?style=flat-square" alt="Tkinter"/></p>
+<a href="https://github.com/JILLELLARAGHUNATH/Calculator-using-Tkinter">↗ View repository</a>
+</td>
+</tr>
+</table>
+
+**Other work:** Voice-Controlled Autonomous Car · Automated Malpractice Detection System · Offer Letter Generator. Additional public links and internal implementation details can be added after verification and approval. Computer vision alerts are indicators for review, not proof of misconduct.
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## ✦ GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3&icon_color=A371F7" alt="GitHub statistics" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" alt="Most used languages across public GitHub repositories" height="170" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=JILLELLARAGHUNATH&hide_border=true&background=0D1117&ring=00D9FF&fire=A371F7&currStreakLabel=58A6FF&sideLabels=E6EDF3&dates=8B949E" alt="GitHub contribution streak" />
+</div>
+
+<sub>Third-party statistics may occasionally be unavailable. Repository language percentages do not measure programming expertise.</sub>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## ✦ Education & Current Focus
+
+**B.Tech in Electronics and Communication Engineering** · Kalasalingam Academy of Research and Education · **2026**
+
+**Currently exploring:** Full stack architecture · AI/ML · Computer vision · IoT · Git/GitHub workflows.
+
+<div align="center">
+
+### ✨ Code · Build · Learn · Grow · Repeat
+
+*Turning ideas into useful software through curiosity, engineering and continuous learning.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jillella-raghunath-ece-a69555268)
+[![Email](https://img.shields.io/badge/Send_an_Email-A371F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillellaraghunath@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://raghunath-jillella.vercel.app/)
+
+![Profile views](https://komarev.com/ghpvc/?username=JILLELLARAGHUNATH&style=flat-square&color=58A6FF)
 
 </div>
