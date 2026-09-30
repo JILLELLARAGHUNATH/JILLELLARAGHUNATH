@@ -10,7 +10,7 @@
 
 **Building practical software, intelligent systems and meaningful digital experiences.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jillella-raghunath-ece-a69555268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghunath-jillella-a69555268/)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JILLELLARAGHUNATH)
 [![Email](https://img.shields.io/badge/Email-A371F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillellaraghunath@gmail.com)
 [![Live Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://raghunath-jillella.vercel.app/)
@@ -159,7 +159,7 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 
 *Turning ideas into useful software through curiosity, engineering and continuous learning.*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jillella-raghunath-ece-a69555268)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghunath-jillella-a69555268/)
 [![Email](https://img.shields.io/badge/Send_an_Email-A371F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillellaraghunath@gmail.com)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://raghunath-jillella.vercel.app/)
 
