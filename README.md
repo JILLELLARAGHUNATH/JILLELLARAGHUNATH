@@ -55,7 +55,7 @@ I'm a **Full Stack Developer** with an Electronics and Communication Engineering
 ### 💼 Full Stack Developer · Persevex LLP
 **Bengaluru, India**
 
-Working on web application development, frontend interfaces, backend functionality, database integration and maintenance. My public [WorkSync repository](https://github.com/JILLELLARAGHUNATH/Persevex-Worksync) uses **Next.js, React, TypeScript, Prisma, Supabase and Tailwind CSS**. Specific responsibilities, launch status and internal features should be published only after company approval.
+Working on web application development, frontend interfaces, backend functionality, database integration and maintenance. My Project [WorkSync](https://github.com/JILLELLARAGHUNATH/Persevex-Worksync) uses **Next.js, React, TypeScript, Prisma, Supabase and Tailwind CSS**. Specific responsibilities, launch status and internal features should be published only after company approval.
 
 ### 🔬 MATLAB Image Processing Intern · Youngminds Technology Solutions Pvt. Ltd.
 **May 2024 – July 2024**
