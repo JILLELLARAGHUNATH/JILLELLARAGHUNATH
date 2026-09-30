@@ -86,7 +86,7 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 <h3>⚡ Persevex WorkSync</h3>
 <p>Workforce and attendance-oriented web application. Public codebase built with Next.js, React, TypeScript and Prisma.</p>
 <p><img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></p>
-<a href="https://github.com/JILLELLARAGHUNATH/Persevex-Worksync">↗ View public repository</a>
+<a href="https://github.com/JILLELLARAGHUNATH/Persevex-Worksync">↗ View repository</a>
 </td>
 <td width="50%" valign="top">
 <h3>🏥 Hospital Scheduler</h3>
