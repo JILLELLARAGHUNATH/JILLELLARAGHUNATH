@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:FF4D8D&height=130&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Colorful animated gradient welcome banner" />
 
-<img src="assets/hero-banner.png" alt="Illustrated developer working at a laptop, with neon blue and purple technology-themed artwork" width="100%" />
+<img src="assets/professional-hero.svg" alt="Professional blue and teal developer illustration with code panels and technology elements" width="100%" />
 
 # Hi, I'm Raghunath Jillella 👋
 
@@ -80,7 +80,7 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## ✦ Featured Projects
+## ✦ What I Build\n\n<div align="center">\n\n<img src="assets/project-areas.svg" alt="Illustrations of full stack development, computer vision and automation" width="100%" />\n\n</div>\n\n<img src="assets/divider.svg" alt="" width="100%" />\n\n## ✦ Featured Projects
 
 <table>
 <tr>
@@ -137,7 +137,7 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 
 <img src="assets/github-profile-snapshot.svg" alt="GitHub profile snapshot: 8 repositories, 205 contributions in the last year, 5 followers and 14 following as of November 17, 2026" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JILLELLARAGHUNATH&bg_color=0D1117&color=00D9FF&line=A371F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+<img src="assets/animated-activity.svg" alt="Animated developer progress graph; decorative animation, not live contribution metrics" width="100%" />\n\n<sub>The animated line is a visual flourish, not a live count of GitHub contributions. Your actual contribution history remains available on the GitHub profile page.</sub>
 
 <a href="https://github.com/JILLELLARAGHUNATH?tab=repositories"><img src="assets/github-activity.svg" alt="Explore Raghunath's public repositories, full stack development, computer vision and IoT projects" width="100%" /></a>
 
@@ -146,7 +146,7 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 
 </div>
 
-<sub>The overview card is stored in this repository and always displays. The optional live streak is provided by a third-party service and may occasionally be unavailable.</sub>
+<sub>The profile overview and animated artwork are stored in this repository, so they do not depend on third-party widget services.</sub>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
