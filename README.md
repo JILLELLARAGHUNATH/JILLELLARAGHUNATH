@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Bold modern portfolio banner for Raghunath Jillella with ivory background, vivid coral-violet accents and code editor illustration" width="100%" />
-
-# Raghunath Jillella 👋
-
-### Full Stack Developer | Python · Web Development · Automation
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Solutions;Code+%E2%80%A2+Create+%E2%80%A2+Innovate)](https://git.io/typing-svg)
+<img src="assets/profile-banner.svg" alt="Midnight-blue neon developer banner for Jillella Raghunath with technology icons and a coding desk illustration" width="100%" />
 
 **Building practical software, intelligent systems and meaningful digital experiences.**
 
