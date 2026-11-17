@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghunath-jillella-a69555268/)
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JILLELLARAGHUNATH)
 [![Email](https://img.shields.io/badge/Email-A371F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillellaraghunath@gmail.com)
-[![Live Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://raghunath-jillella.vercel.app/)
+[![Live Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://portfolio-raghu-slasher.vercel.app/)
 [![Portfolio Source](https://img.shields.io/badge/Portfolio_Source-A371F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JILLELLARAGHUNATH/Portfolio)
 
 </div>
@@ -30,14 +30,14 @@
 
 <div align="center">
 
-<a href="https://raghunath-jillella.vercel.app/">
+<a href="https://portfolio-raghu-slasher.vercel.app/">
   <img src="assets/portfolio-spotlight.svg" alt="Illustrated preview of Raghunath Jillella’s personal developer portfolio with a neon browser interface" width="100%" />
 </a>
 
 **My work, experience and engineering journey — in one place.**  
 A React + Vite portfolio showcasing my development projects and technical background.
 
-[![Visit Live Portfolio](https://img.shields.io/badge/↗_VISIT_LIVE_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://raghunath-jillella.vercel.app/)
+[![Visit Live Portfolio](https://img.shields.io/badge/↗_VISIT_LIVE_PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://portfolio-raghu-slasher.vercel.app/)
 [![Explore Source Code](https://img.shields.io/badge/VIEW_SOURCE-A371F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JILLELLARAGHUNATH/Portfolio)
 
 </div>
@@ -67,14 +67,14 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 ## ✦ Tech Stack
 
 <table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css&theme=dark" alt="Python, JavaScript, TypeScript, C, HTML and CSS" /></td></tr>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML and CSS" /></td></tr>
 <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite and Tailwind CSS" /></td></tr>
 <tr><td><b>Backend & Data</b></td><td><img src="https://skillicons.dev/icons?i=flask,mysql,sqlite&theme=dark" alt="Flask, MySQL and SQLite" /></td></tr>
 <tr><td><b>Computer Vision & IoT</b></td><td><img src="https://skillicons.dev/icons?i=opencv,matlab,arduino&theme=dark" alt="OpenCV, MATLAB and Arduino" /></td></tr>
 <tr><td><b>Developer Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" /></td></tr>
 </table>
 
-**Also working with / exploring:** SQL · Power BI · YOLO · AI/ML · automation. Technologies above reflect a mix of professional use, projects and learning—not equal proficiency in every tool.
+**Also working with / exploring:** SQL · AI/ML · YOLO · automation. The stack reflects a mix of professional use, project work and ongoing learning—not equal proficiency in every tool.
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
@@ -84,9 +84,9 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 <tr>
 <td width="50%" valign="top">
 <h3>⚡ Persevex WorkSync</h3>
-<p>Workforce and attendance-oriented web application. Public codebase built with Next.js, React, TypeScript and Prisma.</p>
+<p>Workforce and attendance-oriented web application. The repository is private, so source code is not publicly accessible.</p>
 <p><img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></p>
-<a href="https://github.com/JILLELLARAGHUNATH/Persevex-Worksync">↗ View repository</a>
+<a href="https://github.com/JILLELLARAGHUNATH/Persevex-Worksync">↗ Repository (private)</a>
 </td>
 <td width="50%" valign="top">
 <h3>🏥 Hospital Scheduler</h3>
@@ -114,7 +114,7 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 <h3>🌐 Developer Portfolio</h3>
 <p>Personal developer portfolio built with React, Vite and Framer Motion.</p>
 <p><img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/></p>
-<a href="https://raghunath-jillella.vercel.app/">↗ Live portfolio</a> · <a href="https://github.com/JILLELLARAGHUNATH/Portfolio">Source code</a>
+<a href="https://portfolio-raghu-slasher.vercel.app/">↗ Live portfolio</a> · <a href="https://github.com/JILLELLARAGHUNATH/Portfolio">Source code</a>
 </td>
 <td width="50%" valign="top">
 <h3>🧮 Tkinter Calculator</h3>
@@ -161,7 +161,7 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghunath-jillella-a69555268/)
 [![Email](https://img.shields.io/badge/Send_an_Email-A371F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillellaraghunath@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://raghunath-jillella.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://portfolio-raghu-slasher.vercel.app/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=JILLELLARAGHUNATH&style=flat-square&color=58A6FF)
 
