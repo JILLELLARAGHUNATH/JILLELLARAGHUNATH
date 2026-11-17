@@ -107,7 +107,11 @@ Worked on an agricultural weed-detection workflow using image preprocessing, seg
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JILLELLARAGHUNATH&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JILLELLARAGHUNATH/JILLELLARAGHUNATH/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JILLELLARAGHUNATH/JILLELLARAGHUNATH/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/JILLELLARAGHUNATH/JILLELLARAGHUNATH/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" />
+  </picture>
 </div>
 
 ## 🎓 Education
