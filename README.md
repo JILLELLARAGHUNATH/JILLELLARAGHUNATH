@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Jillella Raghunath — Full Stack Developer" width="100%" />
+<img src="assets/hero-banner.gif" alt="Jillella Raghunath — Full Stack Developer" width="100%" />
 
 <br/>
 
