@@ -78,7 +78,17 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## ✦ What I Build\n\n<div align="center">\n\n<img src="assets/project-areas.svg" alt="Illustrations of full stack development, computer vision and automation" width="100%" />\n\n</div>\n\n<img src="assets/divider.svg" alt="" width="100%" />\n\n## ✦ Featured Projects
+## ✦ What I Build
+
+<div align="center">
+
+<img src="assets/project-areas.svg" alt="Illustrations of full stack development, computer vision and automation" width="100%" />
+
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+## ✦ Featured Projects
 
 <table>
 <tr>
@@ -135,7 +145,9 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 
 <img src="assets/github-profile-snapshot.svg" alt="GitHub profile snapshot: 8 repositories, 205 contributions in the last year, 5 followers and 14 following as of November 17, 2026" width="100%" />
 
-<img src="assets/animated-activity.svg" alt="Animated developer progress graph; decorative animation, not live contribution metrics" width="100%" />\n\n<sub>The animated line is a visual flourish, not a live count of GitHub contributions. Your actual contribution history remains available on the GitHub profile page.</sub>
+<img src="assets/animated-activity.svg" alt="Animated developer progress graph; decorative animation, not live contribution metrics" width="100%" />
+
+<sub>The animated line is a visual flourish, not a live count of GitHub contributions. Your actual contribution history remains available on the GitHub profile page.</sub>
 
 <a href="https://github.com/JILLELLARAGHUNATH?tab=repositories"><img src="assets/github-activity.svg" alt="Explore Raghunath's public repositories, full stack development, computer vision and IoT projects" width="100%" /></a>
 
