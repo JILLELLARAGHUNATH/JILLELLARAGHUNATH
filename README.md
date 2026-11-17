@@ -23,119 +23,105 @@
 
 ## 👋 About Me
 
-I'm a Full Stack Developer at **Persevex LLP**, with a B.Tech background in Electronics and Communication Engineering. I enjoy building practical applications that combine clean user interfaces, reliable backend systems and useful automation.
+I'm a **Full Stack Developer at Persevex LLP** with an academic background in Electronics and Communication Engineering. I enjoy turning ideas into practical applications—from responsive interfaces and backend services to database-driven tools.
 
-My project experience includes web application development, Python, database integration, MATLAB image processing and computer vision. I’m continuously improving my skills by building and documenting practical projects.
+My hands-on project work includes web development, Python, SQL, MATLAB image processing and computer vision. I value clean implementation, useful features and continuous learning.
 
 ## 🧰 Tech Stack
 
-**Languages**
+<p><strong>Programming & Web</strong><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML and CSS" /></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Python, JavaScript, TypeScript, HTML and CSS" />
-</p>
+<p><strong>Frontend</strong><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite and Tailwind CSS" /></p>
 
-**Frontend**
+<p><strong>Backend, Databases & Developer Tools</strong><br/>
+<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite,git,github,vscode&theme=dark" alt="Flask, MySQL, SQLite, Git, GitHub and Visual Studio Code" /></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite and Tailwind CSS" />
-</p>
-
-**Backend, Databases & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,mysql,sqlite,git,github,vscode&theme=dark" alt="Flask, MySQL, SQLite, Git, GitHub and Visual Studio Code" />
-</p>
-
-**Other areas:** SQL · MATLAB · OpenCV · Arduino · AI/ML · Computer Vision · IoT
+<p><strong>Engineering & Computer Vision</strong><br/>
+<img src="https://skillicons.dev/icons?i=matlab,opencv,arduino&theme=dark" alt="MATLAB, OpenCV and Arduino" /><br/>
+SQL · AI/ML · Image Processing · Computer Vision · IoT</p>
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Persevex WorkSync</h3>
-      Workforce and attendance-oriented web application. The repository is private, so source code is not publicly accessible.
-      <br/><br/>
-      <sub>Next.js · React · TypeScript · Prisma · Supabase</sub>
-      <br/><br/>
-      <a href="https://github.com/JILLELLARAGHUNATH/Persevex-Worksync">Private repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 Hospital Scheduler</h3>
-      Frontend scheduling application with doctor filters, calendar views and appointment categories.
-      <br/><br/>
-      <sub>Next.js · TypeScript</sub>
-      <br/><br/>
-      <a href="https://github.com/JILLELLARAGHUNATH/Hospital-Scheduler">View repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Student Management System</h3>
-      Student record management application with CRUD operations and a simple browser interface.
-      <br/><br/>
-      <sub>Python · SQLite</sub>
-      <br/><br/>
-      <a href="https://github.com/JILLELLARAGHUNATH/Student-Management-System-">View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 Weed Detection</h3>
-      MATLAB image-processing workflow for crop weed detection using segmentation and image-processing operations.
-      <br/><br/>
-      <sub>MATLAB · Image Processing</sub>
-      <br/><br/>
-      <a href="https://github.com/JILLELLARAGHUNATH/weed-detection">View repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Developer Portfolio</h3>
-      Personal portfolio showcasing my development background and projects.
-      <br/><br/>
-      <sub>React · Vite · TypeScript</sub>
-      <br/><br/>
-      <a href="https://raghunath-jillella.vercel.app/">Live portfolio</a> · <a href="https://github.com/JILLELLARAGHUNATH/Portfolio">Source code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧮 Tkinter Calculator</h3>
-      Desktop calculator with a Python Tkinter interface and basic arithmetic operations.
-      <br/><br/>
-      <sub>Python · Tkinter</sub>
-      <br/><br/>
-      <a href="https://github.com/JILLELLARAGHUNATH/Calculator-using-Tkinter">View repository</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚡ Persevex WorkSync</h3>
+Workforce and attendance-oriented web application. <em>Private repository.</em><br/><br/>
+<sub>Next.js · React · TypeScript · Prisma · Supabase</sub><br/><br/>
+<a href="https://github.com/JILLELLARAGHUNATH/Persevex-Worksync">Repository details</a>
+</td>
+<td width="50%" valign="top">
+<h3>🏥 Hospital Scheduler</h3>
+Scheduling interface with doctor filters, calendar views and appointment categories.<br/><br/>
+<sub>Next.js · TypeScript</sub><br/><br/>
+<a href="https://github.com/JILLELLARAGHUNATH/Hospital-Scheduler">View repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 Student Management System</h3>
+Student record management with create, read, update and delete operations.<br/><br/>
+<sub>Python · SQLite</sub><br/><br/>
+<a href="https://github.com/JILLELLARAGHUNATH/Student-Management-System-">View repository</a>
+</td>
+<td width="50%" valign="top">
+<h3>🌿 Weed Detection</h3>
+Crop weed detection workflow using image segmentation and MATLAB image processing.<br/><br/>
+<sub>MATLAB · Image Processing</sub><br/><br/>
+<a href="https://github.com/JILLELLARAGHUNATH/weed-detection">View repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌐 Developer Portfolio</h3>
+Personal website presenting my background, skills and selected work.<br/><br/>
+<sub>React · Vite · TypeScript</sub><br/><br/>
+<a href="https://raghunath-jillella.vercel.app/">Live site</a> · <a href="https://github.com/JILLELLARAGHUNATH/Portfolio">Source</a>
+</td>
+<td width="50%" valign="top">
+<h3>🧮 Tkinter Calculator</h3>
+Desktop calculator with a Python interface and basic arithmetic operations.<br/><br/>
+<sub>Python · Tkinter</sub><br/><br/>
+<a href="https://github.com/JILLELLARAGHUNATH/Calculator-using-Tkinter">View repository</a>
+</td>
+</tr>
 </table>
 
 ## 💼 Experience
 
 **Full Stack Developer · Persevex LLP**  
+*Bengaluru, India*  
 Working on web application development, frontend interfaces, backend functionality, database integration and maintenance.
 
 **MATLAB Image Processing Intern · Youngminds Technology Solutions Pvt. Ltd.**  
 *May 2024 – July 2024*  
-Worked on agricultural weed detection using image preprocessing, segmentation, morphological operations and region visualization.
+Worked on an agricultural weed-detection workflow using image preprocessing, segmentation, morphological operations and region visualization.
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <a href="https://github.com/JILLELLARAGHUNATH?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Explore public repositories" /></a>
+  <a href="https://github.com/JILLELLARAGHUNATH?tab=followers"><img src="https://img.shields.io/github/followers/JILLELLARAGHUNATH?style=for-the-badge&logo=github&label=Followers&color=0969DA" alt="GitHub followers" /></a>
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JILLELLARAGHUNATH&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JILLELLARAGHUNATH&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </div>
 
 ## 🎓 Education
 
 **B.Tech · Electronics and Communication Engineering**  
-Kalasalingam Academy of Research and Education · 2022–2026
+Kalasalingam Academy of Research and Education  
+*2022 – 2026*
 
 ## 🌱 Currently Exploring
 
-Full stack architecture · AI/ML applications · Computer Vision · IoT projects · Cloud technologies · Open-source contributions
+- Full stack application architecture
+- AI/ML applications and computer vision
+- IoT-based projects and automation
+- Cloud technologies and open-source contributions
 
 ---
 
