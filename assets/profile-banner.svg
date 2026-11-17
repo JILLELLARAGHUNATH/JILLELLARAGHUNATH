@@ -1,58 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
 <title id="title">Jillella Raghunath — Full Stack Developer</title>
-<desc id="desc">A modern midnight-blue neon developer banner with cyan and violet accents, technology icons and an illustrated developer coding at a desk.</desc>
+<desc id="desc">A polished midnight navy developer banner with cyan and violet lighting, technology emblems, and a detailed illustrated developer workspace.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07152F"/><stop offset=".55" stop-color="#081D3B"/><stop offset="1" stop-color="#101044"/></linearGradient>
- <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#35D8FF"/><stop offset=".55" stop-color="#6B8CFF"/><stop offset="1" stop-color="#D45BFF"/></linearGradient>
- <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00D9FF"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
- <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
- <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#4D8DCE" stroke-opacity=".12"/></pattern>
-</defs>
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-<circle cx="1030" cy="115" r="170" fill="#174BBD" opacity=".22" filter="url(#soft)"/>
-<circle cx="900" cy="300" r="140" fill="#8B35D8" opacity=".17" filter="url(#soft)"/>
-<path d="M0 330 Q260 290 500 340 T950 320 T1200 335" fill="none" stroke="url(#glow)" stroke-width="2" opacity=".7"/>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07152D"/><stop offset=".48" stop-color="#0A1D3D"/><stop offset="1" stop-color="#11133C"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#24D8F2"/><stop offset=".52" stop-color="#6488FF"/><stop offset="1" stop-color="#C45CFF"/></linearGradient>
+ <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B2349"/><stop offset="1" stop-color="#15265A"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E9A878"/><stop offset="1" stop-color="#A95F55"/></linearGradient>
+ <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#145D9D"/><stop offset="1" stop-color="#172D67"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+ <filter id="shadow"><feGaussianBlur stdDeviation="9"/></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#5BA8E9" stroke-opacity=".10"/></pattern>
+ </defs>
+<rect width="1500" height="500" rx="28" fill="url(#bg)"/>
+<rect width="1500" height="500" rx="28" fill="url(#grid)"/>
+<ellipse cx="1200" cy="190" rx="320" ry="220" fill="#0877D8" opacity=".18" filter="url(#blur)"/>
+<ellipse cx="1020" cy="420" rx="260" ry="110" fill="#9639D6" opacity=".15" filter="url(#blur)"/>
+<path d="M0 472C250 430 420 500 650 462S1050 440 1250 468s180 10 250-12" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".8"/>
 <g font-family="Segoe UI,Arial,sans-serif">
- <text x="58" y="65" fill="#45D7FF" font-size="22" font-weight="700">&lt;/&gt;</text>
- <text x="100" y="65" fill="#F4F7FF" font-size="22" font-weight="600">HELLO, I'M</text>
- <text x="55" y="130" fill="#FFFFFF" font-size="55" font-weight="800">Jillella</text>
- <text x="245" y="130" fill="url(#name)" font-size="55" font-weight="800">Raghunath</text>
- <text x="555" y="128" fill="#FFD45C" font-size="38">✦</text>
- <rect x="58" y="154" width="475" height="47" rx="23" fill="#0C2548" stroke="url(#glow)" stroke-width="1.8"/>
- <text x="82" y="184" fill="#F7FAFF" font-size="22" font-weight="700">Full Stack Developer  ·  Persevex LLP</text>
- <rect x="58" y="221" width="5" height="38" rx="2" fill="#20D9F2"/>
- <text x="78" y="237" fill="#E4EEFF" font-size="18">Building practical software, intelligent systems</text>
- <text x="78" y="261" fill="#E4EEFF" font-size="18">and meaningful digital experiences.</text>
- <g font-size="14" font-weight="700">
-  <rect x="58" y="291" width="122" height="38" rx="19" fill="#0D5FC1" stroke="#39C9FF"/><text x="119" y="315" fill="#FFF" text-anchor="middle">in  LinkedIn</text>
-  <rect x="190" y="291" width="112" height="38" rx="19" fill="#102846" stroke="#4A83C7"/><text x="246" y="315" fill="#FFF" text-anchor="middle">GitHub</text>
-  <rect x="312" y="291" width="95" height="38" rx="19" fill="#102846" stroke="#4A83C7"/><text x="359" y="315" fill="#FFF" text-anchor="middle">Email</text>
-  <rect x="417" y="291" width="154" height="38" rx="19" fill="url(#glow)"/><text x="494" y="315" fill="#06142D" text-anchor="middle">Live Portfolio ↗</text>
+ <text x="70" y="88" fill="#46DDF8" font-size="28" font-weight="700">&lt;/&gt;</text>
+ <text x="118" y="88" fill="#F3F7FF" font-size="27" font-weight="600">HELLO, I'M</text>
+ <text x="66" y="178" fill="#FFFFFF" font-size="76" font-weight="800" letter-spacing="-2">Jillella</text>
+ <text x="300" y="178" fill="url(#accent)" font-size="76" font-weight="800" letter-spacing="-2">Raghunath</text>
+ <text x="680" y="174" fill="#FFD66B" font-size="48">✦</text>
+ <rect x="70" y="207" width="590" height="58" rx="29" fill="#0B2850" stroke="url(#accent)" stroke-width="2"/>
+ <text x="98" y="245" fill="#F8FAFF" font-size="27" font-weight="700">Full Stack Developer  ·  Persevex LLP</text>
+ <rect x="70" y="296" width="5" height="58" rx="2" fill="#28D9F4"/>
+ <text x="94" y="319" fill="#E5F0FF" font-size="23">Building practical software, intelligent systems</text>
+ <text x="94" y="350" fill="#E5F0FF" font-size="23">and meaningful digital experiences.</text>
+ <g font-size="18" font-weight="700" text-anchor="middle">
+  <rect x="70" y="394" width="150" height="48" rx="24" fill="#0867C8" stroke="#35D9FF"/><text x="145" y="425" fill="#FFF">in  LinkedIn</text>
+  <rect x="234" y="394" width="132" height="48" rx="24" fill="#10294C" stroke="#4D8BCB"/><text x="300" y="425" fill="#FFF">GitHub</text>
+  <rect x="380" y="394" width="112" height="48" rx="24" fill="#10294C" stroke="#4D8BCB"/><text x="436" y="425" fill="#FFF">Email</text>
+  <rect x="506" y="394" width="184" height="48" rx="24" fill="url(#accent)"/><text x="598" y="425" fill="#07152D">Live Portfolio ↗</text>
  </g>
 </g>
-<g transform="translate(650 18)">
- <g fill="#0C2145" stroke="url(#glow)" stroke-width="2">
-  <path d="M30 8l34 18v39L30 84 -4 65V26z"/><path d="M132 8l34 18v39l-34 19 -34-19V26z"/><path d="M234 8l34 18v39l-34 19 -34-19V26z"/>
- </g>
- <g font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#EAF6FF" text-anchor="middle">
-  <text x="30" y="53">Py</text><text x="132" y="53">SQL</text><text x="234" y="53">MAT</text>
- </g>
- <g transform="translate(40 95)">
-  <rect x="0" y="0" width="480" height="185" rx="16" fill="#0A1730" stroke="#367FCA" stroke-width="2"/>
-  <rect x="12" y="12" width="456" height="135" rx="9" fill="#061020" stroke="#1E4F86"/>
-  <circle cx="30" cy="26" r="5" fill="#FF6B7A"/><circle cx="48" cy="26" r="5" fill="#FFD166"/><circle cx="66" cy="26" r="5" fill="#42D392"/>
-  <path d="M38 55h170M38 77h250M38 99h205M38 121h140" stroke="#24C9EF" stroke-width="4" stroke-linecap="round" opacity=".8"/>
-  <path d="M300 55h110M280 77h130M310 99h100M250 121h160" stroke="#B77CFF" stroke-width="4" stroke-linecap="round" opacity=".8"/>
-  <path d="M-22 170h520l-32 18H12z" fill="#183B68" stroke="#4CA7E8"/>
- </g>
- <g transform="translate(330 65)">
-  <path d="M65 25c-3-31 53-44 78-7 15 22 2 53-18 65l-45-4C62 65 52 44 65 25z" fill="#101C3E" stroke="#3CBFFF" stroke-width="3"/>
-  <path d="M55 83q-5 45 35 57l50-7q31-16 23-52l-32-18-53 3z" fill="#142E5C" stroke="#347BD1" stroke-width="3"/>
-  <path d="M75 139l-45 40h160l-35-45" fill="#13264B" stroke="#367AC5" stroke-width="3"/>
-  <path d="M45 179h190" stroke="#31D7F2" stroke-width="5" stroke-linecap="round"/>
-  <path d="M10 180h270" stroke="#B15CFF" stroke-width="3" opacity=".8"/>
- </g>
- <g fill="#35D8FF" opacity=".8"><circle cx="470" cy="25" r="3"/><circle cx="500" cy="60" r="4"/><circle cx="15" cy="255" r="3"/></g>
+<!-- Floating technology chips -->
+<g font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="800" text-anchor="middle">
+ <g fill="#0A2144" stroke="#32D8F5" stroke-width="2"><path d="M790 38l39 22v45l-39 22-39-22V60z"/><path d="M905 38l39 22v45l-39 22-39-22V60z"/><path d="M1020 38l39 22v45l-39 22-39-22V60z"/><path d="M1135 38l39 22v45l-39 22-39-22V60z"/></g>
+ <text x="790" y="91" fill="#FFD66B">Py</text><text x="905" y="91" fill="#7CC7FF">SQL</text><text x="1020" y="91" fill="#FF9A65">MAT</text><text x="1135" y="91" fill="#FF7A63">HTML</text>
 </g>
+<!-- Warm coding-room lighting -->
+<path d="M840 155h590v188H840z" fill="#14224A" opacity=".5"/>
+<path d="M1185 145h210v180h-210z" fill="#1B2857" stroke="#375C9C" stroke-width="3"/>
+<path d="M1200 160h180v145h-180z" fill="#111A3A"/>
+<path d="M1200 160h180v42h-180z" fill="#EF7B9D" opacity=".22"/>
+<path d="M1200 202h180v103h-180z" fill="#287BC7" opacity=".2"/>
+<g opacity=".8"><path d="M1210 170h160M1210 181h160M1210 192h160" stroke="#F8A3C2" stroke-width="3"/></g>
+<!-- Desk and monitor -->
+<ellipse cx="1160" cy="424" rx="320" ry="28" fill="#000" opacity=".35" filter="url(#shadow)"/>
+<path d="M795 366h640l-34 28H824z" fill="#183A68" stroke="#4B9DD9" stroke-width="3"/>
+<path d="M850 394h540l-24 70H875z" fill="#10274A" stroke="#244F83" stroke-width="2"/>
+<rect x="910" y="147" width="360" height="220" rx="18" fill="#0B142A" stroke="#4A9CE2" stroke-width="4"/>
+<rect x="927" y="164" width="326" height="184" rx="9" fill="url(#screen)"/>
+<circle cx="947" cy="181" r="6" fill="#FF6F87"/><circle cx="968" cy="181" r="6" fill="#FFD166"/><circle cx="989" cy="181" r="6" fill="#4DE0A1"/>
+<g stroke-linecap="round" stroke-width="5"><path d="M952 214h135M952 239h220M952 264h160M952 289h115" stroke="#31D9F2"/><path d="M1100 214h110M1180 239h48M1125 264h103M1080 289h145" stroke="#B67BFF"/></g>
+<path d="M1038 367v28m-48 0h96" stroke="#4D9CD9" stroke-width="8" stroke-linecap="round"/>
+<!-- Developer silhouette at workstation -->
+<path d="M1285 295c-6-56 18-94 65-101 48-7 80 24 80 71v46l-40 38h-85z" fill="#071326" stroke="#2E83CB" stroke-width="3"/>
+<path d="M1300 230c8-48 68-63 100-24 18 21 17 57 2 75l-75 12c-25-15-36-36-27-63z" fill="#111A3B" stroke="#398ED6" stroke-width="3"/>
+<path d="M1290 295c-28 18-50 44-62 82l-10 39h230l-14-45c-10-31-35-57-68-73z" fill="url(#shirt)" stroke="#367CC2" stroke-width="3"/>
+<path d="M1274 338l-84 34 20 25 94-30M1400 337l55 40-18 25-74-35" fill="url(#skin)" stroke="#B8796A" stroke-width="3"/>
+<path d="M1210 382l-28 20 14 16 35-12M1437 385l29 17-10 17-36-11" fill="#D58B70"/>
+<!-- desk accessories -->
+<rect x="830" y="346" width="42" height="20" rx="5" fill="#0A152D" stroke="#44C7E7" stroke-width="2"/>
+<path d="M847 345v-28m0 6c-22-25-28-2 0 8m0-8c22-28 30-4 0 8" fill="none" stroke="#38C98C" stroke-width="5" stroke-linecap="round"/>
+<path d="M1450 354h24v34h-24z" fill="#142D54" stroke="#4A91D4" stroke-width="2"/>
+<path d="M1462 354v-38m0 12c-23-26-29-2 0 9m0-10c23-26 30-2 0 9" fill="none" stroke="#43D59A" stroke-width="5" stroke-linecap="round"/>
+<g fill="#54DDF4"><circle cx="1405" cy="105" r="4"/><circle cx="1450" cy="145" r="3"/><circle cx="760" cy="300" r="4"/></g>
 </svg>
