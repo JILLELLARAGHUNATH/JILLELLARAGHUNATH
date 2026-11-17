@@ -1,50 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-<title id="title">Jillella Raghunath | Full Stack Developer</title>
-<desc id="desc">Modern professional developer banner with a deep midnight-blue background, cyan and violet lighting, elegant typography, and a minimal code-editor illustration.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Raghunath Jillella — Full Stack Developer</title>
+<desc id="desc">Bold modern portfolio banner with a warm ivory canvas, deep ink typography, vivid coral and violet accents, and an abstract code-window illustration.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".58" stop-color="#101F3C"/><stop offset="1" stop-color="#211C45"/></linearGradient>
- <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#35E0D0"/><stop offset=".52" stop-color="#53A6FF"/><stop offset="1" stop-color="#B58BFF"/></linearGradient>
- <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142B49"/><stop offset="1" stop-color="#111B36"/></linearGradient>
- <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="15"/></filter>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9CCBFF" stroke-opacity=".055"/></pattern>
+<linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF8F1"/><stop offset="1" stop-color="#F0EDFF"/></linearGradient>
+<linearGradient id="pop" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF654F"/><stop offset=".52" stop-color="#A45CFF"/><stop offset="1" stop-color="#4C7DFF"/></linearGradient>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#242044" flood-opacity=".16"/></filter>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#6B5A9B" opacity=".13"/></pattern>
 </defs>
-<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
-<rect width="1200" height="340" rx="22" fill="url(#grid)"/>
-<circle cx="1045" cy="150" r="175" fill="#5B7CFF" opacity=".10" filter="url(#softGlow)"/>
-<circle cx="1045" cy="150" r="122" fill="none" stroke="url(#accent)" stroke-opacity=".23" stroke-width="1.5"/>
-<circle cx="1045" cy="150" r="92" fill="none" stroke="#75DDF0" stroke-opacity=".16" stroke-dasharray="4 9"/>
-<path d="M0 292C190 250 280 330 460 286S740 260 900 300" fill="none" stroke="url(#accent)" stroke-opacity=".42" stroke-width="2"/>
-<g transform="translate(66 54)">
- <rect x="0" y="0" width="5" height="222" rx="2.5" fill="url(#accent)"/>
- <text x="28" y="22" fill="#7FE8E1" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4">HELLO, I'M</text>
- <text x="26" y="91" fill="#F4F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="750" letter-spacing="-1.5">Raghunath</text>
- <text x="28" y="126" fill="#B8C9E4" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="2">JILLELLA</text>
- <rect x="28" y="148" width="340" height="1.5" fill="url(#accent)" opacity=".75"/>
- <text x="28" y="181" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">FULL STACK DEVELOPER</text>
- <text x="28" y="210" fill="#B8C9E4" font-family="Segoe UI,Arial,sans-serif" font-size="16">Persevex LLP  <tspan fill="#55DCD4">/</tspan>  Bengaluru, India</text>
- <g font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">
-  <text x="28" y="250" fill="#77E8E0">PYTHON</text><circle cx="105" cy="246" r="2" fill="#8CA6C9"/>
-  <text x="119" y="250" fill="#91BFFF">REACT</text><circle cx="181" cy="246" r="2" fill="#8CA6C9"/>
-  <text x="195" y="250" fill="#C6A7FF">SQL</text><circle cx="239" cy="246" r="2" fill="#8CA6C9"/>
-  <text x="253" y="250" fill="#77E8E0">MATLAB</text><circle cx="321" cy="246" r="2" fill="#8CA6C9"/>
-  <text x="335" y="250" fill="#91BFFF">WEB</text>
- </g>
+<rect width="1200" height="360" rx="26" fill="url(#wash)"/><rect width="1200" height="360" rx="26" fill="url(#dots)"/>
+<circle cx="1080" cy="28" r="190" fill="#A45CFF" opacity=".09"/><circle cx="1150" cy="345" r="170" fill="#FF654F" opacity=".08"/>
+<path d="M0 315C220 265 340 365 570 308S940 265 1200 316V360H0Z" fill="url(#pop)" opacity=".10"/>
+<g transform="translate(68 56)">
+<rect width="7" height="244" rx="3.5" fill="url(#pop)"/>
+<text x="32" y="24" fill="#7655B8" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+<text x="28" y="101" fill="#17172B" font-family="Arial,sans-serif" font-size="59" font-weight="800" letter-spacing="-2">RAGHUNATH</text>
+<text x="31" y="145" fill="#17172B" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="5">JILLELLA</text>
+<rect x="31" y="168" width="360" height="4" rx="2" fill="url(#pop)"/>
+<text x="31" y="207" fill="#28243E" font-family="Arial,sans-serif" font-size="21" font-weight="700">FULL STACK DEVELOPER</text>
+<text x="31" y="236" fill="#655F78" font-family="Arial,sans-serif" font-size="16">Persevex LLP • Bengaluru, India</text>
+<g font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">
+<rect x="31" y="257" width="88" height="28" rx="14" fill="#17172B"/><text x="75" y="275" fill="#FFFFFF" text-anchor="middle">PYTHON</text>
+<rect x="128" y="257" width="78" height="28" rx="14" fill="#FF654F"/><text x="167" y="275" fill="#FFFFFF" text-anchor="middle">REACT</text>
+<rect x="215" y="257" width="64" height="28" rx="14" fill="#7655B8"/><text x="247" y="275" fill="#FFFFFF" text-anchor="middle">SQL</text>
+<rect x="288" y="257" width="92" height="28" rx="14" fill="#4C7DFF"/><text x="334" y="275" fill="#FFFFFF" text-anchor="middle">MATLAB</text>
+</g></g>
+<g transform="translate(650 62)" filter="url(#shadow)">
+<rect width="474" height="235" rx="22" fill="#FFFFFF"/><rect x="1" y="1" width="472" height="233" rx="21" fill="none" stroke="#D9D3EA" stroke-width="2"/>
+<path d="M1 22Q1 1 22 1H452Q473 1 473 22V48H1Z" fill="#211F35"/>
+<circle cx="27" cy="25" r="5" fill="#FF7768"/><circle cx="46" cy="25" r="5" fill="#FFC85A"/><circle cx="65" cy="25" r="5" fill="#68D6A8"/>
+<text x="91" y="29" fill="#DAD4ED" font-family="Arial,sans-serif" font-size="12">raghunath.dev / workspace</text>
+<g font-family="Consolas,monospace" font-size="16">
+<text x="35" y="91" fill="#7655B8">const <tspan fill="#28243E">developer</tspan> = {</text>
+<text x="58" y="124" fill="#28243E">build: <tspan fill="#E15D50">'web experiences'</tspan>,</text>
+<text x="58" y="157" fill="#28243E">explore: <tspan fill="#7655B8">'AI &amp; computer vision'</tspan>,</text>
+<text x="58" y="190" fill="#28243E">create: <tspan fill="#347F79">'real-world solutions'</tspan></text>
+<text x="35" y="218" fill="#7655B8">};</text></g>
+<rect x="345" y="74" width="93" height="93" rx="18" fill="#F1EDFF"/>
+<path d="M370 102L354 120L370 138M412 102L428 120L412 138M400 94L382 146" fill="none" stroke="url(#pop)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g transform="translate(650 53)">
- <rect x="0" y="0" width="478" height="226" rx="18" fill="#071326" stroke="#5BADEB" stroke-opacity=".55" stroke-width="1.5"/>
- <rect x="12" y="12" width="454" height="202" rx="11" fill="url(#panel)"/>
- <path d="M12 49H466" stroke="#527092" stroke-opacity=".38"/>
- <circle cx="32" cy="31" r="4" fill="#FF7D9C"/><circle cx="48" cy="31" r="4" fill="#F7C66B"/><circle cx="64" cy="31" r="4" fill="#58DDB4"/>
- <text x="88" y="35" fill="#7893B5" font-family="Segoe UI,Arial,sans-serif" font-size="11">developer.ts</text>
- <g font-family="Consolas,monospace" font-size="15">
-  <text x="39" y="88" fill="#68DCD7">const <tspan fill="#D8E7FF">developer</tspan> = {</text>
-  <text x="61" y="119" fill="#D8E7FF">build: <tspan fill="#A7E6B8">'web applications'</tspan>,</text>
-  <text x="61" y="150" fill="#D8E7FF">explore: <tspan fill="#C6A8FF">'AI &amp; computer vision'</tspan>,</text>
-  <text x="61" y="181" fill="#D8E7FF">create: <tspan fill="#A7E6B8">'useful solutions'</tspan></text>
-  <text x="39" y="205" fill="#68DCD7">};</text>
- </g>
- <path d="M-18 235H496L463 251H15Z" fill="#314D70" stroke="#6995C2" stroke-opacity=".65"/>
- <path d="M171 235H307L322 246H156Z" fill="#0D1C34"/>
-</g>
-<g fill="url(#accent)" opacity=".95"><circle cx="1142" cy="78" r="4"/><circle cx="1162" cy="112" r="2.5"/><circle cx="1100" cy="292" r="3"/><circle cx="630" cy="45" r="2.5"/></g>
+<text x="1122" y="333" fill="#8C829F" font-family="Arial,sans-serif" font-size="11" text-anchor="end" letter-spacing="2">CODE • BUILD • CREATE</text>
 </svg>
