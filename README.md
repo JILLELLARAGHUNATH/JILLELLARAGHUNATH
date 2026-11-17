@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:FF4D8D&height=130&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Colorful animated gradient welcome banner" />
+
 <img src="assets/hero-banner.png" alt="Illustrated developer working at a laptop, with neon blue and purple technology-themed artwork" width="100%" />
 
 # Hi, I'm Raghunath Jillella 👋
 
 ### Full Stack Developer @ Persevex LLP · Bengaluru, India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Solutions;Code+%E2%80%A2+Create+%E2%80%A2+Innovate)](https://git.io/typing-svg)
 
 **Building practical software, intelligent systems and meaningful digital experiences.**
 
@@ -133,6 +135,18 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=JILLELLARAGHUNATH&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies based on public GitHub activity" width="100%" />
+
+<a href="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics based on public activity" height="165" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used public repository languages" height="165" />
+</a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JILLELLARAGHUNATH&bg_color=0D1117&color=00D9FF&line=A371F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+
+
 <a href="https://github.com/JILLELLARAGHUNATH?tab=repositories"><img src="assets/github-activity.svg" alt="Explore Raghunath's public repositories, full stack development, computer vision and IoT projects" width="100%" /></a>
 
 [![Explore My Repositories](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/JILLELLARAGHUNATH?tab=repositories)
@@ -166,3 +180,5 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 ![Profile views](https://komarev.com/ghpvc/?username=JILLELLARAGHUNATH&style=flat-square&color=58A6FF)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D8D,50:7C3AED,100:00D9FF&height=110&section=footer" width="100%" alt="Colorful gradient wave footer" />
