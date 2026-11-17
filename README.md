@@ -109,8 +109,8 @@ Worked on an agricultural weed-detection workflow using image preprocessing, seg
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub profile statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub profile statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
 </div>
 
 <div align="center">
