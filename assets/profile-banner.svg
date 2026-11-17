@@ -1,42 +1,58 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Raghunath Jillella — Full Stack Developer</title>
-<desc id="desc">Bold modern portfolio banner with a warm ivory canvas, deep ink typography, vivid coral and violet accents, and an abstract code-window illustration.</desc>
+<title id="title">Jillella Raghunath — Full Stack Developer</title>
+<desc id="desc">A modern midnight-blue neon developer banner with cyan and violet accents, technology icons and an illustrated developer coding at a desk.</desc>
 <defs>
-<linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF8F1"/><stop offset="1" stop-color="#F0EDFF"/></linearGradient>
-<linearGradient id="pop" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF654F"/><stop offset=".52" stop-color="#A45CFF"/><stop offset="1" stop-color="#4C7DFF"/></linearGradient>
-<filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#242044" flood-opacity=".16"/></filter>
-<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#6B5A9B" opacity=".13"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07152F"/><stop offset=".55" stop-color="#081D3B"/><stop offset="1" stop-color="#101044"/></linearGradient>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#35D8FF"/><stop offset=".55" stop-color="#6B8CFF"/><stop offset="1" stop-color="#D45BFF"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00D9FF"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#4D8DCE" stroke-opacity=".12"/></pattern>
 </defs>
-<rect width="1200" height="360" rx="26" fill="url(#wash)"/><rect width="1200" height="360" rx="26" fill="url(#dots)"/>
-<circle cx="1080" cy="28" r="190" fill="#A45CFF" opacity=".09"/><circle cx="1150" cy="345" r="170" fill="#FF654F" opacity=".08"/>
-<path d="M0 315C220 265 340 365 570 308S940 265 1200 316V360H0Z" fill="url(#pop)" opacity=".10"/>
-<g transform="translate(68 56)">
-<rect width="7" height="244" rx="3.5" fill="url(#pop)"/>
-<text x="32" y="24" fill="#7655B8" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4">HELLO, I'M</text>
-<text x="28" y="101" fill="#17172B" font-family="Arial,sans-serif" font-size="59" font-weight="800" letter-spacing="-2">RAGHUNATH</text>
-<text x="31" y="145" fill="#17172B" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="5">JILLELLA</text>
-<rect x="31" y="168" width="360" height="4" rx="2" fill="url(#pop)"/>
-<text x="31" y="207" fill="#28243E" font-family="Arial,sans-serif" font-size="21" font-weight="700">FULL STACK DEVELOPER</text>
-<text x="31" y="236" fill="#655F78" font-family="Arial,sans-serif" font-size="16">Persevex LLP • Bengaluru, India</text>
-<g font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.1">
-<rect x="31" y="257" width="88" height="28" rx="14" fill="#17172B"/><text x="75" y="275" fill="#FFFFFF" text-anchor="middle">PYTHON</text>
-<rect x="128" y="257" width="78" height="28" rx="14" fill="#FF654F"/><text x="167" y="275" fill="#FFFFFF" text-anchor="middle">REACT</text>
-<rect x="215" y="257" width="64" height="28" rx="14" fill="#7655B8"/><text x="247" y="275" fill="#FFFFFF" text-anchor="middle">SQL</text>
-<rect x="288" y="257" width="92" height="28" rx="14" fill="#4C7DFF"/><text x="334" y="275" fill="#FFFFFF" text-anchor="middle">MATLAB</text>
-</g></g>
-<g transform="translate(650 62)" filter="url(#shadow)">
-<rect width="474" height="235" rx="22" fill="#FFFFFF"/><rect x="1" y="1" width="472" height="233" rx="21" fill="none" stroke="#D9D3EA" stroke-width="2"/>
-<path d="M1 22Q1 1 22 1H452Q473 1 473 22V48H1Z" fill="#211F35"/>
-<circle cx="27" cy="25" r="5" fill="#FF7768"/><circle cx="46" cy="25" r="5" fill="#FFC85A"/><circle cx="65" cy="25" r="5" fill="#68D6A8"/>
-<text x="91" y="29" fill="#DAD4ED" font-family="Arial,sans-serif" font-size="12">raghunath.dev / workspace</text>
-<g font-family="Consolas,monospace" font-size="16">
-<text x="35" y="91" fill="#7655B8">const <tspan fill="#28243E">developer</tspan> = {</text>
-<text x="58" y="124" fill="#28243E">build: <tspan fill="#E15D50">'web experiences'</tspan>,</text>
-<text x="58" y="157" fill="#28243E">explore: <tspan fill="#7655B8">'AI &amp; computer vision'</tspan>,</text>
-<text x="58" y="190" fill="#28243E">create: <tspan fill="#347F79">'real-world solutions'</tspan></text>
-<text x="35" y="218" fill="#7655B8">};</text></g>
-<rect x="345" y="74" width="93" height="93" rx="18" fill="#F1EDFF"/>
-<path d="M370 102L354 120L370 138M412 102L428 120L412 138M400 94L382 146" fill="none" stroke="url(#pop)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1030" cy="115" r="170" fill="#174BBD" opacity=".22" filter="url(#soft)"/>
+<circle cx="900" cy="300" r="140" fill="#8B35D8" opacity=".17" filter="url(#soft)"/>
+<path d="M0 330 Q260 290 500 340 T950 320 T1200 335" fill="none" stroke="url(#glow)" stroke-width="2" opacity=".7"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+ <text x="58" y="65" fill="#45D7FF" font-size="22" font-weight="700">&lt;/&gt;</text>
+ <text x="100" y="65" fill="#F4F7FF" font-size="22" font-weight="600">HELLO, I'M</text>
+ <text x="55" y="130" fill="#FFFFFF" font-size="55" font-weight="800">Jillella</text>
+ <text x="245" y="130" fill="url(#name)" font-size="55" font-weight="800">Raghunath</text>
+ <text x="555" y="128" fill="#FFD45C" font-size="38">✦</text>
+ <rect x="58" y="154" width="475" height="47" rx="23" fill="#0C2548" stroke="url(#glow)" stroke-width="1.8"/>
+ <text x="82" y="184" fill="#F7FAFF" font-size="22" font-weight="700">Full Stack Developer  ·  Persevex LLP</text>
+ <rect x="58" y="221" width="5" height="38" rx="2" fill="#20D9F2"/>
+ <text x="78" y="237" fill="#E4EEFF" font-size="18">Building practical software, intelligent systems</text>
+ <text x="78" y="261" fill="#E4EEFF" font-size="18">and meaningful digital experiences.</text>
+ <g font-size="14" font-weight="700">
+  <rect x="58" y="291" width="122" height="38" rx="19" fill="#0D5FC1" stroke="#39C9FF"/><text x="119" y="315" fill="#FFF" text-anchor="middle">in  LinkedIn</text>
+  <rect x="190" y="291" width="112" height="38" rx="19" fill="#102846" stroke="#4A83C7"/><text x="246" y="315" fill="#FFF" text-anchor="middle">GitHub</text>
+  <rect x="312" y="291" width="95" height="38" rx="19" fill="#102846" stroke="#4A83C7"/><text x="359" y="315" fill="#FFF" text-anchor="middle">Email</text>
+  <rect x="417" y="291" width="154" height="38" rx="19" fill="url(#glow)"/><text x="494" y="315" fill="#06142D" text-anchor="middle">Live Portfolio ↗</text>
+ </g>
 </g>
-<text x="1122" y="333" fill="#8C829F" font-family="Arial,sans-serif" font-size="11" text-anchor="end" letter-spacing="2">CODE • BUILD • CREATE</text>
+<g transform="translate(650 18)">
+ <g fill="#0C2145" stroke="url(#glow)" stroke-width="2">
+  <path d="M30 8l34 18v39L30 84 -4 65V26z"/><path d="M132 8l34 18v39l-34 19 -34-19V26z"/><path d="M234 8l34 18v39l-34 19 -34-19V26z"/>
+ </g>
+ <g font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#EAF6FF" text-anchor="middle">
+  <text x="30" y="53">Py</text><text x="132" y="53">SQL</text><text x="234" y="53">MAT</text>
+ </g>
+ <g transform="translate(40 95)">
+  <rect x="0" y="0" width="480" height="185" rx="16" fill="#0A1730" stroke="#367FCA" stroke-width="2"/>
+  <rect x="12" y="12" width="456" height="135" rx="9" fill="#061020" stroke="#1E4F86"/>
+  <circle cx="30" cy="26" r="5" fill="#FF6B7A"/><circle cx="48" cy="26" r="5" fill="#FFD166"/><circle cx="66" cy="26" r="5" fill="#42D392"/>
+  <path d="M38 55h170M38 77h250M38 99h205M38 121h140" stroke="#24C9EF" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+  <path d="M300 55h110M280 77h130M310 99h100M250 121h160" stroke="#B77CFF" stroke-width="4" stroke-linecap="round" opacity=".8"/>
+  <path d="M-22 170h520l-32 18H12z" fill="#183B68" stroke="#4CA7E8"/>
+ </g>
+ <g transform="translate(330 65)">
+  <path d="M65 25c-3-31 53-44 78-7 15 22 2 53-18 65l-45-4C62 65 52 44 65 25z" fill="#101C3E" stroke="#3CBFFF" stroke-width="3"/>
+  <path d="M55 83q-5 45 35 57l50-7q31-16 23-52l-32-18-53 3z" fill="#142E5C" stroke="#347BD1" stroke-width="3"/>
+  <path d="M75 139l-45 40h160l-35-45" fill="#13264B" stroke="#367AC5" stroke-width="3"/>
+  <path d="M45 179h190" stroke="#31D7F2" stroke-width="5" stroke-linecap="round"/>
+  <path d="M10 180h270" stroke="#B15CFF" stroke-width="3" opacity=".8"/>
+ </g>
+ <g fill="#35D8FF" opacity=".8"><circle cx="470" cy="25" r="3"/><circle cx="500" cy="60" r="4"/><circle cx="15" cy="255" r="3"/></g>
+</g>
 </svg>
