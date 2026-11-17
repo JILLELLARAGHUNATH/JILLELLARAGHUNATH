@@ -1,47 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-<title id="title">Jillella Raghunath — Full Stack Developer</title>
-<desc id="desc">A premium navy and electric-blue developer banner with neon cyan and violet accents, a custom code workstation, and technology symbols.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Jillella Raghunath | Full Stack Developer</title>
+<desc id="desc">Modern professional developer banner with a deep midnight-blue background, cyan and violet lighting, elegant typography, and a minimal code-editor illustration.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07152d"/><stop offset=".55" stop-color="#102c50"/><stop offset="1" stop-color="#252052"/></linearGradient>
- <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22e6e0"/><stop offset=".55" stop-color="#4e9dff"/><stop offset="1" stop-color="#bd6bff"/></linearGradient>
- <linearGradient id="screen" x2="1" y2="1"><stop stop-color="#0b1e37"/><stop offset="1" stop-color="#142d50"/></linearGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8acbff" stroke-opacity=".07"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".58" stop-color="#101F3C"/><stop offset="1" stop-color="#211C45"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#35E0D0"/><stop offset=".52" stop-color="#53A6FF"/><stop offset="1" stop-color="#B58BFF"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#142B49"/><stop offset="1" stop-color="#111B36"/></linearGradient>
+ <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="15"/></filter>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9CCBFF" stroke-opacity=".055"/></pattern>
 </defs>
-<rect width="1200" height="400" rx="24" fill="url(#bg)"/><rect width="1200" height="400" rx="24" fill="url(#grid)"/>
-<circle cx="1060" cy="185" r="225" fill="#28c7f0" opacity=".06"/><circle cx="1020" cy="180" r="155" fill="#a66bff" opacity=".08"/>
-<path d="M0 345 C170 275 260 420 430 348 S690 290 820 355" fill="none" stroke="url(#neon)" stroke-width="3" opacity=".7"/><path d="M0 365 C170 295 260 440 430 368 S690 310 820 375" fill="none" stroke="#42c8ff" stroke-width="1" opacity=".4"/>
-<g transform="translate(58 64)">
- <text x="0" y="0" fill="#6cece5" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">HELLO, I'M</text>
- <text x="0" y="76" fill="#f5f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="800">Jillella</text>
- <text x="190" y="76" fill="url(#neon)" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="800">Raghunath</text>
- <rect x="0" y="101" width="440" height="47" rx="23" fill="#102c4d" stroke="url(#neon)" stroke-width="2"/>
- <text x="23" y="132" fill="#f5f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">FULL STACK DEVELOPER</text>
- <text x="1" y="190" fill="#c8d9ef" font-family="Segoe UI,Arial,sans-serif" font-size="19">Persevex LLP  <tspan fill="#57dcd9">•</tspan>  Bengaluru, India</text>
- <rect x="0" y="218" width="5" height="54" rx="2" fill="url(#neon)"/>
- <text x="20" y="240" fill="#e8f1ff" font-family="Segoe UI,Arial,sans-serif" font-size="18">Building practical software, intelligent</text>
- <text x="20" y="265" fill="#e8f1ff" font-family="Segoe UI,Arial,sans-serif" font-size="18">systems and meaningful digital experiences.</text>
- <g font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">
-  <rect x="0" y="300" width="93" height="31" rx="15" fill="#123f60" stroke="#28cbd8"/><text x="46" y="320" fill="#aaf7f1" text-anchor="middle">PYTHON</text>
-  <rect x="103" y="300" width="75" height="31" rx="15" fill="#1a3d70" stroke="#579cff"/><text x="140" y="320" fill="#d4e6ff" text-anchor="middle">REACT</text>
-  <rect x="188" y="300" width="65" height="31" rx="15" fill="#30305e" stroke="#a77aff"/><text x="220" y="320" fill="#eadcff" text-anchor="middle">SQL</text>
-  <rect x="263" y="300" width="86" height="31" rx="15" fill="#123f60" stroke="#28cbd8"/><text x="306" y="320" fill="#aaf7f1" text-anchor="middle">MATLAB</text>
-  <rect x="359" y="300" width="72" height="31" rx="15" fill="#1a3d70" stroke="#579cff"/><text x="395" y="320" fill="#d4e6ff" text-anchor="middle">WEB</text>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+<circle cx="1045" cy="150" r="175" fill="#5B7CFF" opacity=".10" filter="url(#softGlow)"/>
+<circle cx="1045" cy="150" r="122" fill="none" stroke="url(#accent)" stroke-opacity=".23" stroke-width="1.5"/>
+<circle cx="1045" cy="150" r="92" fill="none" stroke="#75DDF0" stroke-opacity=".16" stroke-dasharray="4 9"/>
+<path d="M0 292C190 250 280 330 460 286S740 260 900 300" fill="none" stroke="url(#accent)" stroke-opacity=".42" stroke-width="2"/>
+<g transform="translate(66 54)">
+ <rect x="0" y="0" width="5" height="222" rx="2.5" fill="url(#accent)"/>
+ <text x="28" y="22" fill="#7FE8E1" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4">HELLO, I'M</text>
+ <text x="26" y="91" fill="#F4F7FF" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="750" letter-spacing="-1.5">Raghunath</text>
+ <text x="28" y="126" fill="#B8C9E4" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="2">JILLELLA</text>
+ <rect x="28" y="148" width="340" height="1.5" fill="url(#accent)" opacity=".75"/>
+ <text x="28" y="181" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">FULL STACK DEVELOPER</text>
+ <text x="28" y="210" fill="#B8C9E4" font-family="Segoe UI,Arial,sans-serif" font-size="16">Persevex LLP  <tspan fill="#55DCD4">/</tspan>  Bengaluru, India</text>
+ <g font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">
+  <text x="28" y="250" fill="#77E8E0">PYTHON</text><circle cx="105" cy="246" r="2" fill="#8CA6C9"/>
+  <text x="119" y="250" fill="#91BFFF">REACT</text><circle cx="181" cy="246" r="2" fill="#8CA6C9"/>
+  <text x="195" y="250" fill="#C6A7FF">SQL</text><circle cx="239" cy="246" r="2" fill="#8CA6C9"/>
+  <text x="253" y="250" fill="#77E8E0">MATLAB</text><circle cx="321" cy="246" r="2" fill="#8CA6C9"/>
+  <text x="335" y="250" fill="#91BFFF">WEB</text>
  </g>
 </g>
-<g transform="translate(650 55)">
- <path d="M30 0H460Q478 0 478 18V235Q478 252 460 252H30Q12 252 12 235V18Q12 0 30 0Z" fill="#0a1c34" stroke="#53d9e5" stroke-width="2" filter="url(#glow)"/>
- <rect x="27" y="17" width="448" height="214" rx="8" fill="url(#screen)"/>
- <path d="M27 49H475" stroke="#335477"/><circle cx="45" cy="33" r="5" fill="#ff718e"/><circle cx="63" cy="33" r="5" fill="#ffcf70"/><circle cx="81" cy="33" r="5" fill="#54dfb2"/>
+<g transform="translate(650 53)">
+ <rect x="0" y="0" width="478" height="226" rx="18" fill="#071326" stroke="#5BADEB" stroke-opacity=".55" stroke-width="1.5"/>
+ <rect x="12" y="12" width="454" height="202" rx="11" fill="url(#panel)"/>
+ <path d="M12 49H466" stroke="#527092" stroke-opacity=".38"/>
+ <circle cx="32" cy="31" r="4" fill="#FF7D9C"/><circle cx="48" cy="31" r="4" fill="#F7C66B"/><circle cx="64" cy="31" r="4" fill="#58DDB4"/>
+ <text x="88" y="35" fill="#7893B5" font-family="Segoe UI,Arial,sans-serif" font-size="11">developer.ts</text>
  <g font-family="Consolas,monospace" font-size="15">
-  <text x="51" y="83" fill="#74dfe7">const developer = {</text><text x="72" y="112" fill="#dce9ff">role: <tspan fill="#9be7b4">'Full Stack Developer'</tspan>,</text><text x="72" y="141" fill="#dce9ff">build: <tspan fill="#c5a1ff">'useful applications'</tspan>,</text><text x="72" y="170" fill="#dce9ff">focus: <tspan fill="#9be7b4">'AI · Web · Automation'</tspan></text><text x="51" y="199" fill="#74dfe7">};</text>
+  <text x="39" y="88" fill="#68DCD7">const <tspan fill="#D8E7FF">developer</tspan> = {</text>
+  <text x="61" y="119" fill="#D8E7FF">build: <tspan fill="#A7E6B8">'web applications'</tspan>,</text>
+  <text x="61" y="150" fill="#D8E7FF">explore: <tspan fill="#C6A8FF">'AI &amp; computer vision'</tspan>,</text>
+  <text x="61" y="181" fill="#D8E7FF">create: <tspan fill="#A7E6B8">'useful solutions'</tspan></text>
+  <text x="39" y="205" fill="#68DCD7">};</text>
  </g>
- <path d="M0 253H500L462 278H39Z" fill="#304d70" stroke="#6b9bc5"/><path d="M190 254H310L326 269H174Z" fill="#122c4a"/>
- <g transform="translate(54 292)">
-  <rect x="0" y="0" width="72" height="54" rx="12" fill="#123b5a" stroke="#3ad7e1"/><text x="36" y="36" text-anchor="middle" font-family="Arial" font-size="31" fill="#ffd34f" font-weight="700">Py</text>
-  <rect x="88" y="0" width="72" height="54" rx="12" fill="#172e5a" stroke="#5d9dff"/><text x="124" y="35" text-anchor="middle" font-family="Arial" font-size="22" fill="#9fc5ff" font-weight="700">SQL</text>
-  <rect x="176" y="0" width="72" height="54" rx="12" fill="#26305b" stroke="#ad83ff"/><text x="212" y="37" text-anchor="middle" font-family="Arial" font-size="30" fill="#c9a7ff" font-weight="700">⚛</text>
-  <rect x="264" y="0" width="72" height="54" rx="12" fill="#123b5a" stroke="#3ad7e1"/><text x="300" y="36" text-anchor="middle" font-family="Arial" font-size="25" fill="#ffae55" font-weight="700">M</text>
- </g>
+ <path d="M-18 235H496L463 251H15Z" fill="#314D70" stroke="#6995C2" stroke-opacity=".65"/>
+ <path d="M171 235H307L322 246H156Z" fill="#0D1C34"/>
 </g>
+<g fill="url(#accent)" opacity=".95"><circle cx="1142" cy="78" r="4"/><circle cx="1162" cy="112" r="2.5"/><circle cx="1100" cy="292" r="3"/><circle cx="630" cy="45" r="2.5"/></g>
 </svg>
