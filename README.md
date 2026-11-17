@@ -135,25 +135,14 @@ Worked on MATLAB-based agricultural weed detection using image preprocessing, se
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JILLELLARAGHUNATH&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies based on public GitHub activity" width="100%" />
-
-<a href="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics based on public activity" height="165" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used public repository languages" height="165" />
-</a>
+<img src="assets/github-profile-snapshot.svg" alt="GitHub profile snapshot: 8 repositories, 205 contributions in the last year, 5 followers and 14 following as of November 17, 2026" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JILLELLARAGHUNATH&bg_color=0D1117&color=00D9FF&line=A371F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-
 
 <a href="https://github.com/JILLELLARAGHUNATH?tab=repositories"><img src="assets/github-activity.svg" alt="Explore Raghunath's public repositories, full stack development, computer vision and IoT projects" width="100%" /></a>
 
 [![Explore My Repositories](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/JILLELLARAGHUNATH?tab=repositories)
 [![GitHub Profile](https://img.shields.io/badge/GITHUB_PROFILE-A371F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JILLELLARAGHUNATH)
-
-<!-- Optional live streak: remove this image if the external service is unavailable. -->
-<img src="https://streak-stats.demolab.com?user=JILLELLARAGHUNATH&amp;hide_border=true&amp;background=0D1117&amp;ring=00D9FF&amp;fire=A371F7&amp;currStreakLabel=58A6FF&amp;sideLabels=E6EDF3&amp;dates=8B949E&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;stroke=30363D" alt="Live GitHub contribution streak" width="490" />
 
 </div>
 
