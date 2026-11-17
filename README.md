@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:FF4D8D&height=130&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Colorful animated gradient welcome banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:FF4D8D&height=130&section=header&text=Welcome%20to%20my%20World&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Colorful animated gradient welcome banner" />
 
 <img src="assets/professional-hero.svg" alt="Professional blue and teal developer illustration with code panels and technology elements" width="100%" />
 
