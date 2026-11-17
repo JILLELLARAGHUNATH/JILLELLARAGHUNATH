@@ -99,11 +99,26 @@ Working on web application development, frontend interfaces, backend functionali
 *May 2024 – July 2024*  
 Worked on an agricultural weed-detection workflow using image preprocessing, segmentation, morphological operations and region visualization.
 
-## 📊 GitHub Statistics
+## 📊 GitHub Insights
 
 <div align="center">
-  <a href="https://github.com/JILLELLARAGHUNATH?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Explore public repositories" /></a>
-  <a href="https://github.com/JILLELLARAGHUNATH?tab=followers"><img src="https://img.shields.io/github/followers/JILLELLARAGHUNATH?style=for-the-badge&logo=github&label=Followers&color=0969DA" alt="GitHub followers" /></a>
+
+<a href="https://github.com/JILLELLARAGHUNATH?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Explore public repositories" /></a>
+<a href="https://github.com/JILLELLARAGHUNATH?tab=followers"><img src="https://img.shields.io/github/followers/JILLELLARAGHUNATH?style=for-the-badge&logo=github&label=Followers&color=0969DA" alt="GitHub followers" /></a>
+
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JILLELLARAGHUNATH&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub profile statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JILLELLARAGHUNATH&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=JILLELLARAGHUNATH&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JILLELLARAGHUNATH&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 <div align="center">
